@@ -1,0 +1,55 @@
+14:33:14 [INFO] BossKey: === BossKey 启动 ===
+14:33:14 [INFO] BossKey: QApplication 初始化完成
+14:33:14 [INFO] hotkey_manager: Qt 原生事件过滤器已安装
+14:33:14 [INFO] BossKey: 模块初始化完成
+14:33:14 [INFO] BossKey: 已加载 1 条规则
+14:33:14 [INFO] hotkey_manager: 热键消息窗口已创建（主线程）
+14:33:14 [DEBUG] hotkey_manager: 准备注册热键: hwnd=3345678, id=1, mod=16390, vk=81
+14:33:14 [DEBUG] hotkey_manager:   尝试 1: hwnd=3345678
+14:33:14 [INFO] hotkey_manager: 热键 ctrl+shift+q 注册成功!
+14:33:14 [INFO] hotkey_manager: 已注册热键: ctrl+shift+q -> ['D:\\program\\WeLink\\WeLink.exe']
+14:33:14 [INFO] hotkey_manager: 热键注册完成，共 1 个
+14:33:14 [INFO] BossKey: 电源事件监听已启用
+14:33:14 [INFO] BossKey: 定时检查已启用（每 5 分钟）
+14:33:14 [INFO] BossKey: 开机自启已处于开启状态
+14:33:14 [INFO] BossKey: 托盘图标已显示
+14:33:14 [INFO] BossKey: 启动完成，日志文件: C:\Users\14250\Desktop\BossKey\BossKey.log
+14:33:49 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:33:49 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=False, 已最小化窗口数=0
+14:33:49 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 切换模式
+14:33:49 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:33:49 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:33:49 [INFO] hotkey_manager: 已置顶: D:\program\WeLink\WeLink.exe
+14:33:49 [INFO] hotkey_manager: 切换完成: 最小化 4 个窗口, 目标应用: ['D:\\program\\WeLink\\WeLink.exe']
+14:33:49 [INFO] hotkey_manager: handler 完成: state.active=True
+14:34:15 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:34:15 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=True, 已最小化窗口数=4
+14:34:15 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 还原模式
+14:34:15 [INFO] hotkey_manager: 还原完成
+14:34:15 [INFO] hotkey_manager: handler 完成: state.active=False
+14:34:48 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:34:48 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=False, 已最小化窗口数=0
+14:34:48 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 切换模式
+14:34:48 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:34:48 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:34:48 [INFO] hotkey_manager: 已置顶: D:\program\WeLink\WeLink.exe
+14:34:48 [INFO] hotkey_manager: 切换完成: 最小化 2 个窗口, 目标应用: ['D:\\program\\WeLink\\WeLink.exe']
+14:34:48 [INFO] hotkey_manager: handler 完成: state.active=True
+14:34:49 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:34:49 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=True, 已最小化窗口数=2
+14:34:49 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 还原模式
+14:34:49 [INFO] hotkey_manager: 还原完成
+14:34:49 [INFO] hotkey_manager: handler 完成: state.active=False
+14:34:49 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:34:49 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=False, 已最小化窗口数=0
+14:34:49 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 切换模式
+14:34:49 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:34:50 [DEBUG] window_manager: 找到 1 个 welink.exe 窗口
+14:34:50 [INFO] hotkey_manager: 已置顶: D:\program\WeLink\WeLink.exe
+14:34:50 [INFO] hotkey_manager: 切换完成: 最小化 2 个窗口, 目标应用: ['D:\\program\\WeLink\\WeLink.exe']
+14:34:50 [INFO] hotkey_manager: handler 完成: state.active=True
+14:34:50 [INFO] hotkey_manager: 收到 WM_HOTKEY 消息，hotkey_id=1
+14:34:50 [INFO] hotkey_manager: handler 触发: hotkey=ctrl+shift+q, state.active=True, 已最小化窗口数=2
+14:34:50 [INFO] hotkey_manager: 触发快捷键: ctrl+shift+q -> 还原模式
+14:34:50 [INFO] hotkey_manager: 还原完成
+14:34:50 [INFO] hotkey_manager: handler 完成: state.active=False
